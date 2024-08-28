@@ -18,3 +18,4 @@ Prompts:
 14. "provide list of all prompts I created"
 15. "can you list all the questions I asked you?"
 16. Add pictures at each section
+17. ... <restructuring didn't work>

@@ -1,3 +1,18 @@
+function playSlotMachine() {
+    const result = Math.random() < 0.5 ? 'Win' : 'Lose';
+    document.getElementById('slot-result').innerText = `Result: ${result}`;
+}
+
+function playBlackjack() {
+    const result = Math.random() < 0.5 ? 'Win' : 'Lose';
+    document.getElementById('blackjack-result').innerText = `Result: ${result}`;
+}
+
+function playRoulette() {
+    const result = Math.random() < 0.5 ? 'Win' : 'Lose';
+    document.getElementById('roulette-result').innerText = `Result: ${result}`;
+}
+
 // List of attractions
 const attractions = [
     { id: 'slide-button', name: 'Slide', interaction: slideInteraction },
@@ -29,8 +44,8 @@ const attractions = [
   
   function fountainInteraction() {
     alert('Admire the beautiful fountain!');
-  }
-  
+}
+
   function tablesChairsInteraction() {
     alert('Enjoy a meal at the poolside tables and chairs!');
   }
