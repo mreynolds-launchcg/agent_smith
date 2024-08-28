@@ -9,3 +9,4 @@ Prompts:
 5. can you update the simulation to have the inside a collection called the Gaming Floor? Create additional floors for the following: pool, restaurants, bar, kitchen, theater, hotel rooms, elevator.
 6. what are some common activities and attractions for a commercial entertainment pool. <NOGO>
 7. in the simulation, add the following attractions to the pool floor: slide, swim bar, lounge chairs, fountain, tables and chairs, umbrellas
+Test
